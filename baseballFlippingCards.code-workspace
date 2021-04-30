@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "HTML:CSS Flipping Baseball Cards",
+			"path": "."
+		},
+		{
+			"name": "assets",
+			"path": "../../Desktop/workshop-html-css-flipping-cards-master/assets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HTML:CSS Flipping Baseball Cards"
+	}
+}
